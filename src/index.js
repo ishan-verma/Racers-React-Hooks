@@ -34,7 +34,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>F1 Races for 2018</h1>
+      <h1>F1 Races for 2018!</h1>
       <AllRacers races={races} winner={winner} />
     </div>
   );
